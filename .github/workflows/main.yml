@@ -1,7 +1,8 @@
 
 
-name: A workflow to build an application
-
+uses: actions/hello-world-docker-action@master
+with:
+  who-to-greet: 'Mona the Octocat'
 on:
   push:
     branches: [ main ]
