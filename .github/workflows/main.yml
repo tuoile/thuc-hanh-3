@@ -1,15 +1,13 @@
 
 
     name: Hello world action
+    on: 
+    jobs: 
+        objects
 
-    runs-on: ubuntu-latest
+    defaults: ubuntu-latest
 
-    steps:
-
-      - uses: actions/checkout@v1
-
-      - uses: ./action-a
-
-        with:
+    step: 
 
           MY_NAME: "Mona"
+          run: echo "Hello world"
