@@ -1,11 +1,4 @@
-uses: actions/hello-world-docker-action@master
-on:
-  push:
-    branches: [ main ]
 
-jobs:
-
-  build:
 
     name: Hello world action
 
