@@ -11,6 +11,7 @@
 ## 2. new words in Unit 6:
 1. gesture
 2. dialect /ˈdɑɪ·əˌlekt/ n : tieng dia phuong, tieng tho ngu
+3. preceding  /prɪˈsiː.dɪŋ/ a: existing or happening before someone or something
 ## 3. new word unit 7
 1. reach a peak of or peak at . eg: reach a peak of 10 000 people. or peak at 10 000 people.
 2. a low of . eg : fell to a low of only 556 people in 1978
