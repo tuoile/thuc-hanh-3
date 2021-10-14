@@ -20,4 +20,5 @@ Hello the word, I am coming. maybe everything will be good in the furture.
                                 
                                 4. phục vụ, cung cấp
                                 
-                                eg. to accommodate the special needs of minority group :phục vụ nhu cầu thiết yếu của các dân tộc thiểu số.
+                                eg. to accommodate the special needs of minority group :phục vụ nhu cầu thiết yếu của các 
+                                dân tộc thiểu số.
